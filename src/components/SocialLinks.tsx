@@ -5,21 +5,21 @@ const socialLinks = [
   {
     name: "GitHub",
     icon: Github,
-    url: "github.com/mehrozekhan",
+    url: "github.com/muhammadmehrozekhan",
     color: "hover:text-white hover:bg-gray-700",
     glow: "group-hover:from-gray-500 group-hover:to-gray-600",
   },
   {
     name: "LinkedIn",
     icon: Linkedin,
-    url: "linkedin.com/in/mehrozekhan",
+    url: "https://www.linkedin.com/in/muhammadmehrozekhan/",
     color: "hover:text-white hover:bg-blue-600",
     glow: "group-hover:from-blue-500 group-hover:to-blue-600",
   },
   {
     name: "Email",
     icon: Mail,
-    url: "mehroze@example.com",
+    url: "mehrozeyounus@gmail.com",
     color: "hover:text-white hover:bg-red-600",
     glow: "group-hover:from-red-500 group-hover:to-red-600",
   },
@@ -33,7 +33,7 @@ const socialLinks = [
   {
     name: "Twitter",
     icon: Twitter,
-    url: "@mehrozekhan",
+    url: "@muhammadmehrozekhan",
     color: "hover:text-white hover:bg-sky-500",
     glow: "group-hover:from-sky-400 group-hover:to-sky-600",
   },
